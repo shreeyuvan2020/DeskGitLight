@@ -12,7 +12,7 @@ A PCB in the shape of the GitHub cat that lights up more as it becomes darker!
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/237092083cf992207ecfb1fc93ff9317542febb2_screenshot_2025-06-12_at_8.34.37___pm.png)
 ## PCB:
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ed72f85f63c5db2103637644e85aa46d81fd1b4d_screenshot_2025-06-12_at_8.34.15___pm.png)
-![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/30aa078307a5ea14fae1a3cf37620e69ed07da82_screenshot_2025-06-12_at_8.24.04___pm.png)
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/823138ad4d15d14992cd9ab9f67c37ce603eba8d_image.png)
 ## Features:
 - Orpheus AND git silkscreen art!
 - The ears of the github cat light up!
